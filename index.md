@@ -17,7 +17,7 @@ Ph.D. candidate at Sekijima Lab.
 
 *   **2020/04 - 2022/3, Daikin Industries, Ltd.**
     *   **Structure Development of Small Molecules for Materials:**
-        *   Investigated the synthesis of small molecules obtain polymers with desired properties through communication with customer polymer manufacturers and internal teams responsible for polymer synthesis and evaluation.
+        *   Investigated the synthesis of small molecules to obtain polymers with desired properties through communication with customer polymer manufacturers and internal teams responsible for polymer synthesis and evaluation.
     *   **Process Investigation:**
         *   Investigated processes for synthesizing building blocks using the company's fluorination technology.
 
