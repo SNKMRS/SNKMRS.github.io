@@ -1,6 +1,5 @@
 title: CV
-logo: /assets/img/logo.png
 description: 
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
